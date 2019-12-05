@@ -1,4 +1,7 @@
-package colors;
+package java_code;
 
-public class Student {
+public class Student extends person {
+    public Student(int age) {
+        super(age);
+    }
 }
