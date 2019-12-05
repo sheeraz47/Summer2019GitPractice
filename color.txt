@@ -13,8 +13,6 @@ Azure
 French rose
 Cyber yellow
 gold
-<<<<<<< Updated upstream
 fuchsia
-=======
 French violet
 flame
