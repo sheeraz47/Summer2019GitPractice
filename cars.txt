@@ -1,5 +1,5 @@
 Toyota
-git Mazda
+Mazda
 Lincoln
 Tesla
 Audi
